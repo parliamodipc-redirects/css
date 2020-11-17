@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BlobEmoji';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://raw.githubusercontent.com/fasm-ga/short/main/file/97703663184773362439117477116912955148832109326480289374999250571491730706304182795084711243128664230363622671116075285232262827421/Noto-Color-Emoji--Android6-0.ttf) format('truetype');
+  }
+i.blob {
+  font-family: 'BlobEmoji';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+}
